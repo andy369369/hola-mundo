@@ -1,1 +1,15 @@
 Andres Garcia
+usuario git hub :andy369369 
+token: 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
+
+
+
+
+
+
+
+NOTAS       (Comandos git)
+git push:
+Nombre de Usuario:                git config --global user.name “andy369369”
+correo:                           git config --global user.email "andresgarcia.ag.08@gmail.com" 
+ver datos ingresados:             git config --list
