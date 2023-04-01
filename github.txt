@@ -13,3 +13,101 @@ git push:
 Nombre de Usuario:                git config --global user.name “andy369369”
 correo:                           git config --global user.email "andresgarcia.ag.08@gmail.com" 
 ver datos ingresados:             git config --list
+
+
+INICIO DE UN NUEVO REPOSITORIO: GIT INIT
+Primero deberemos crear una carpeta vacía para inicializar nuestro repositorio, una vez que la
+tenemos creada debemos decirle a la terminal que se pare en esa carpeta, así todos los
+comandos de Git, afectan a esa carpeta.
+
+En Windows podemos hacer click derecho a la carpeta y darle a Git Bash Here, eso nos abrirá la
+terminal Git Bash en la carpeta para trabajar Git.
+comando:    git init
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¿COMO VINCULAMOS NUESTRO REPOSITORIO CON GITHUB?
+git remote add <name> <url>              git remote add origin https://github.com/andy369369/hola-mundo.git
+
+
+
+
+
+
+
